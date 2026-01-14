@@ -5,7 +5,7 @@ resources:
 - ingress.yaml
 - fitness-analysistemplate.yaml
 - latency-analysistemplate.yaml
-- loadtest-analysistemplate.yaml
+- loadTest-analysistemplate.yaml
 namespace: prod
 commonAnnotations:
   supported-by: sre@example.com
